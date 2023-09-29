@@ -1,0 +1,23 @@
+{
+  "name": "stack-overflow",
+  "version": "1.0.0",
+  "description": "playground for solving stack overflow problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impurity-dev/stack-overflow.git"
+  },
+  "author": "impurity-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impurity-dev/stack-overflow/issues"
+  },
+  "homepage": "https://github.com/impurity-dev/stack-overflow#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
